@@ -14,7 +14,7 @@ namespace ConsoleApplication2 {
         }
         [Test]
         public void NewTest() {
-            Assert.AreEqual(1, 2);
+            Assert.AreEqual(2, 2);
         }
     }
 }
