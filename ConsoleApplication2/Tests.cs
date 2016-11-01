@@ -12,5 +12,9 @@ namespace ConsoleApplication2 {
         public void MainTest() {
             Assert.AreEqual(1, 1);
         }
+        [Test]
+        public void NewTest() {
+            Assert.AreEqual(1, 2);
+        }
     }
 }
