@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication2 {
     class Program {
-        static void Main(string[] args) {
+        static voidr Main(string[] args) {
         //xyu  pizda
         }
     }
