@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace ConsoleApplication2 {
     class Program {
         static void Main1(string[] args) {
-        //xyu  psdfgsdfgisdfgsddorvv
+        //xyu  psdfsdfgsdfgisdfgsddorvv
         }
     }
 }
