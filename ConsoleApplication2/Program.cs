@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication2 {
     class Program {
-        static void Maingt(string[] args) {
+        static void Main(string[] args) {
         //xyu  mudak
         }
     }
