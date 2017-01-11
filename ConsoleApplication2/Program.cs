@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication2 {
     class Program {
-        static void Maing(string[] args) {
+        static void Maingf(string[] args) {
         //xyu  muddakasdf
         }
     }
