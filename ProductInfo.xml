@@ -1,0 +1,17 @@
+<?xml version=""1.0""?>
+<ProductInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  InternalName="Sobaka" >
+  <ProductInformation>
+		<PublicName>Sobaka</PublicName>
+	</ProductInformation>
+    <VSSLocations>
+        <VSSLocation VSSPath="$/InternalSoftware/DXVCS" ReferenceName=""/>
+    </VSSLocations>
+ <Builds>
+    <Build Type="Debug">
+      <Projects>
+            <BuildProject Compiler="NET4" FileName="ConsoleApplication2.sln" CopyOutput="true" />
+      </Projects>
+	</Build>
+  </Builds>
+</ProductInfo>
