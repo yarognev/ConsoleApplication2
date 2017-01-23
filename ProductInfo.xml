@@ -1,8 +1,8 @@
 <?xml version=""1.0""?>
 <ProductInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-  InternalName="Sobaka" >
+  InternalName="ConsoleApplication2" >
   <ProductInformation>
-		<PublicName>Sobaka</PublicName>
+		<PublicName>ConsoleApplication2</PublicName>
 	</ProductInformation>
     <VSSLocations>
         <VSSLocation VSSPath="$/InternalSoftware/DXVCS" ReferenceName=""/>
