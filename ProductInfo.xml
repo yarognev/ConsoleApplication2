@@ -8,7 +8,7 @@
         <VSSLocation VSSPath="$/InternalSoftware/DXVCS" ReferenceName=""/>
     </VSSLocations>
  <Builds>
-    <Build Type="Debug">
+    <Build Type="Test">
       <Projects>
             <BuildProject Compiler="NET4" FileName="ConsoleApplication2.sln" CopyOutput="true" />
       </Projects>
