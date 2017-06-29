@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ConsoleApplication2 {
-    class Program {5sd
+    class Program {5sd4
         static void Main(string[] args) {
         //xyu sd sa
         }
