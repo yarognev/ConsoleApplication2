@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+уебанство
 namespace ConsoleApplication2 {
     class Program {
         static void Main1(string[] args) {
