@@ -15,6 +15,7 @@ namespace ConsoleApplication2 {
         [Test]
         public void NewTest() {
             Assert.AreEqual(2, 2);
+            //suchy potroh
         }
     }
 }
