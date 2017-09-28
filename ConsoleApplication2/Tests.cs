@@ -11,6 +11,7 @@ namespace ConsoleApplication2 {
         [Test]
         public void MainTest() {
             Assert.AreEqual(1, 1);
+            //gagarin
         }
         [Test]
         public void NewTest() {
