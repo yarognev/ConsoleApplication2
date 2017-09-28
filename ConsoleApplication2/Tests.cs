@@ -18,4 +18,5 @@ namespace ConsoleApplication2 {
             //suchy potroh
         }
     }
+    //isvrash
 }
