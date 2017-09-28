@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ConsoleApplication2 {
-    [TestFixture]
+    [TestFixture]//Chiribas
     public class Tests {
         [Test]
         public void MainTest() {
