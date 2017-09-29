@@ -1,4 +1,3 @@
-﻿using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,7 +14,6 @@ namespace ConsoleApplication2 {
         [Test]
         public void NewTest() {
             Assert.AreEqual(2, 2);
-            //suchy potroh
         }
     }
 }
