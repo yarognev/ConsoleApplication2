@@ -1,9 +1,9 @@
-﻿using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NUnit.Framework;
 
 namespace ConsoleApplication2 {
     [TestFixture]
@@ -15,7 +15,6 @@ namespace ConsoleApplication2 {
         [Test]
         public void NewTest() {
             Assert.AreEqual(2, 2);
-            //suchy potroh
         }
     }
 }
