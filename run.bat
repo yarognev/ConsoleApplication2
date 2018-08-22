@@ -1,0 +1,1 @@
+msg "Admin" Some message to display
