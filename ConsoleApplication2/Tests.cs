@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication2 {//pidor
+namespace ConsoleApplication2 {//pidor1
     [TestFixture]
     public class Tests {
         [Test]
