@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication2 {//pidor1
+namespace ConsoleApplication2 {//ebanko
     [TestFixture]
     public class Tests {
         [Test]
