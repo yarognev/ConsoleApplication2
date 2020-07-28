@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication2 {//eba зшвщк
+namespace ConsoleApplication2 {//eba govno
     [TestFixture]
     public class Tests {
         [Test]
