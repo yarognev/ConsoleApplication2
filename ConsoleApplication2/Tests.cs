@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication2 {//eba govno ebannoe pidril сука
+namespace ConsoleApplication2 {//eba govno ebannoe pidril сука бля
     [TestFixture]
     public class Tests {
         [Test]
